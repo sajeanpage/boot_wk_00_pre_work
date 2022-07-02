@@ -1,0 +1,8 @@
+## Data Analytics Reflect Activity
+
+- I'm really excited about learning how to use old and new tools in this new area of Data Analytics.  I've spent my career creating and maintaining solutions that collect, summarize, and disseminate data.  I believe this program will teach me how to access the full potential of the data that I've been collecting.
+- I’ve worked with several programming languages and I’m excited about picking up a new language.    Python appears to be a new favorite with coders and the preferred language of Data Analytics.  In addition to adding it to my toolbox, I am curious to understand the draw to this language.
+- I’m pretty confident in the database realm.  I’ve used SQL relational databases for several years and can’t imagine a database that is not relational.  I know that MongoDB is a popular non-relational database, and I’m excited to find out where and when to use this kind of tool.
+- It is my hope that when I complete this course, I will know how to analyze data to create predictive mathematical models to guide decision making.   Who doesn’t want to see the future? I am most excited about learning a framework of tools and practices, Machine Learning perhaps, to get to this level of competency.
+- It’s been my experience that growing your tool knowledge and skill set is a multiplier in your career work.   I have no doubt that what I learn will allow me to create solutions that were previously not possible for me or at least perform my duties more efficiently.  My new view of what can be done with data should open up new possibilities for the clients that I serve and the data that they have been collecting.  Finally, my newly acquired skills and knowledge will guarantee that I am marketable in this emerging area of IT.
+
